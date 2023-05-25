@@ -1,0 +1,138 @@
+body
+{
+
+   margin:0px;
+   padding:0px;
+   color: white;
+   font-family: Arial, Helvetica, sans-serif;
+   background-image:linear-gradient(to right,lightskyblue,lightgrey);
+   border:3px solid orangered;
+   height:740px;
+
+   
+
+}
+
+span
+{
+    color: red;
+}
+
+.wrap
+{
+    height:400px;
+    width:250px;
+    position: absolute;
+    top:70px;
+    left:150px;
+    padding: 10px;
+    background-color:rgb(111, 161, 212);
+    border-radius: 5px;
+    box-shadow: black 10px 10px 20px 3px;
+    border: 2px solid black;
+    border-radius: 40px;
+}
+
+input
+{
+    outline: none;
+    border: 1px solid black;
+    padding:5px;
+    margin-top: 15px;
+    border-radius: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:17px;
+}
+
+button
+{
+    color:black;
+    padding:10px;
+    border:1px solid black;
+    background-color:lightcoral;
+    margin-top: 15px;
+    cursor: pointer;
+    font-size: 15px;
+    font-family:'Times New Roman', Times, serif;
+   
+}
+
+
+button :hover
+{
+    color:black;
+    padding:10px;
+    border:1px solid black;
+    background-color:lightcoral;
+    margin-top: 15px;
+    cursor: pointer;
+    font-size: 15px;
+    font-family:'Times New Roman', Times, serif;
+   
+}
+
+#main
+{
+    position:relative;
+    height:560px;
+    top:40px;
+    left:400px;
+    width:40%;
+    border:2px solid gray;
+    background-color:darkgray;
+    border-radius: 20px;
+    box-shadow: black 5px 5px 5px 7px;
+
+
+}
+
+#h
+{
+    text-indent: 380px;
+    color:firebrick;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: black 10px 10px 3px 10px;
+}
+
+#title
+{
+    background-color: black;
+    color:white;
+    border-radius: 30px;
+    padding-top: 10px;
+    padding-left: 50px;
+    padding-bottom: 10px;
+    margin-bottom:40px;
+    margin-top: 20px;
+
+}
+
+#bm
+{
+    position: absolute;
+    object-fit:fill;
+    height:200px;
+    width:300px;
+    top:270px;
+    left:60px;
+    border-radius:80px;
+    border: 2px solid green;
+    box-shadow: green 10px 10px 7px 1px;
+}
+
+#man
+{
+    position: absolute;
+    top:250px;
+    left:75%;
+    border-radius: 100%;
+    border: 2px solid lightskyblue;
+    box-shadow: lightskyblue 10px 10px 20px 4px;
+
+}
+p
+{
+    color:black;
+}
+
