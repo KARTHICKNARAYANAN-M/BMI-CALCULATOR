@@ -1,4 +1,7 @@
 # BMI-CALCULATOR
 
+This website is designed to calculter the bmi .This app is developed using Html,Css,Js.
 
-HERE YOU CAN CALCULATE YOUR BMI AND CHECK WHETHER YOU ARE UNDERWEIGHT,NORMAL OR OVERWEIGHT
+Here You Can Calculate Your Bmi And Check Whether you are Underweight,Normal Or Overweight4
+
+Link :
